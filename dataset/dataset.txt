@@ -1,0 +1,1 @@
+Download dataset from here https://www.nist.gov/itl/products-and-services/emnist-dataset
